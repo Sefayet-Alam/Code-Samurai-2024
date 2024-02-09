@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Fiction",
+        "price": 12.99
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Drama",
+        "price": 15.49
+    },
+    {
+        "id": 3,
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Science Fiction",
+        "price": 10.99
+    },
+    {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "price": 14.75
+    },
+    {
+        "id": 5,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "price": 19.99
+    },
+    {
+        "id": 6,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Adventure",
+        "price": 17.25
+    },
+    {
+        "id": 7,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "price": 13.45
+    },
+    {
+        "id": 8,
+        "title": "The Lord of the Flies",
+        "author": "William Golding",
+        "genre": "Thriller",
+        "price": 11.99
+    },
+    {
+        "id": 9,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "genre": "Dystopian",
+        "price": 16.50
+    },
+    {
+        "id": 10,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Philosophical",
+        "price": 14.99
+    }
+]
